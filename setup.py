@@ -57,7 +57,7 @@ setup(
     author_email='federico.capoano@gmail.com',
     license='MIT',
     url='https://github.com/ninuxorg/netdiff',
-    download_url='https://github.com/ninuxorg/netdiff/releases',
+    #download_url='https://github.com/ninuxorg/netdiff/releases',
     keywords=['networking', 'mesh-network', 'netjson', 'olsr', 'batman', 'bmx'],
     platforms=['Platform Independent'],
     packages=find_packages(exclude=['tests', 'tests.*', 'docs', 'docs.*']),
